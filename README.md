@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!-- [![wakatime](https://wakatime.com/badge/user/ff2fd02f-93f5-46d4-af69-146d00163dbe.svg)](https://wakatime.com/@ff2fd02f-93f5-46d4-af69-146d00163dbe)
+[![github](https://img.shields.io/github/followers/Undertone0809?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers) -->
+
 - 👋 Hi, I’m [@Zeeland](https://github.com/Undertone0809)
 - 👀 I’m interested in Computer Science, DeepLearning and Iot development
 - 🌱 I’m currently learning DataAnalysis and DeepLearning
@@ -12,9 +15,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Undertone0809&theme=merko&layout=compact)
 
 
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 <!--
