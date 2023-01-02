@@ -3,6 +3,8 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/ff2fd02f-93f5-46d4-af69-146d00163dbe.svg)](https://wakatime.com/@ff2fd02f-93f5-46d4-af69-146d00163dbe)
 [![github](https://img.shields.io/github/followers/Undertone0809?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers) -->
 
+![](https://komarev.com/ghpvc/?username=Undertone0809)
+
 - 👋 Hi, I’m [@Zeeland](https://github.com/Undertone0809)
 - 👀 I’m interested in Computer Science, DeepLearning and Iot development
 - 🌱 I’m currently learning DataAnalysis and DeepLearning
