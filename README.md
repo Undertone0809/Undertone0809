@@ -45,7 +45,7 @@
 ### Some of my repo :office_worker:
 
 - [【promptulate】一个专为Prompt Engineer设计LLM Prompt Layer框架](https://github.com/Undertone0809/promptulate)
-- [【cushy-storage】一个基于磁盘缓存的Python框架，可以轻松进行数据和对象存储](https://github.com/Undertone0809/cushy-storage)
+- [【cushy-storage】一个基于磁盘缓存的ORM框架，可以轻松地进行数据和对象存储](https://github.com/Undertone0809/cushy-storage)
 - [【cushy-serial】A lightweight python serial library. You can create a serial program easily.](https://github.com/Undertone0809/cushy-serial)
 - [【cushy-socket】A lightweight python socket library. You can create a TCP/UDP connection easily.](https://github.com/Undertone0809/cushy-socket)
 - [【broadcast-service】一个轻量级的Python发布订阅者框架，支持同步异步、定时任务、主题管理等功能](https://github.com/Undertone0809/broadcast-service)
