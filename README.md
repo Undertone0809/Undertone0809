@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Undertone0809)
 
 - 👋 Hi, I’m [@Zeeland](https://github.com/Undertone0809)
-- 👀 I’m interested in Computer Science, DeepLearning and Iot development
+- 👀 I’m interested in Computer Science, NLP, DeepLearning and Iot development
 - 🌱 I’m currently learning DataAnalysis and DeepLearning
 - 📫 Contact me : zeeland@foxmail.com
 - 🤔 I’m looking for help with some open source project to promote my ability to coding
