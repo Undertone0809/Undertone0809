@@ -49,7 +49,7 @@
 - [【broadcast-service】一个强大级的Python发布订阅者框架，支持同步异步、定时任务、主题管理等功能](https://github.com/Undertone0809/broadcast-service)
 - [【cushy-serial】A lightweight python serial library. You can create a serial program easily.](https://github.com/Undertone0809/cushy-serial)
 - [【cushy-socket】A python socket library. You can create a TCP/UDP connection easily.](https://github.com/Undertone0809/cushy-socket)
-- [【imarkdown】A practical Markdown image url converter(https://github.com/Undertone0809/imarkdown)
+- [【imarkdown】A practical Markdown image url converter](https://github.com/Undertone0809/imarkdown)
 
 There are some [tiny repo](https://github.com/Undertone0809?page=1&tab=repositories) ...
 
