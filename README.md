@@ -1,27 +1,29 @@
-### Hi there 👋
+# 🌌 Welcome to Zeeland's GitHub 💫
 
 <!-- [![wakatime](https://wakatime.com/badge/user/ff2fd02f-93f5-46d4-af69-146d00163dbe.svg)](https://wakatime.com/@ff2fd02f-93f5-46d4-af69-146d00163dbe)
 [![github](https://img.shields.io/github/followers/Undertone0809?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers) -->
 
 ![](https://komarev.com/ghpvc/?username=Undertone0809)
 
-- 👋 Hi, I’m [@Zeeland](https://github.com/Undertone0809)
-- 👀 I’m interested in Computer Science, NLP, DeepLearning and Iot development
-- 🌱 I’m currently learning DataAnalysis and DeepLearning
-- 📫 Contact me : zeeland@foxmail.com
-- 🤔 I’m looking for help with some open source project to promote my ability to coding
+Hi, I’m [@Zeeland](https://github.com/Undertone0809), an open source community advocate.
 
----
+I’m interested in Computer Science, NLP, DeepLearning and Iot development.
 
-### Using and learning📚
+I have been playing research related to LLM and prompt engineering recently. Multi-Modality artificial intelligence and AGI are both intersting researchs ~
+
+Should you need anything, reach me at zeeland@foxmail.com.
+
+For all things, know that I'm here for you. You are not alone. Looking forward to doing some interesting things with you.
+
+### Using and learning 📚
 #### langs:
 <!-- **Langs:** -->
 ![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C++](http://img.shields.io/badge/-C++-FF7F50?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white
-)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffff4a&color=d1b01f)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 #### Develop:
 <!-- **Develop:** -->
@@ -33,23 +35,25 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-FF7D40?style=flat-square&logo=Node.js&logoColor=00d632)
 
+### Some of my repo 📚
 
-#### Editor IDE OS:
-<!-- **Editor IDE OS:** -->
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Pycharm](http://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=ffffff)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+🔭 [Promptulate: A LLM application development framework.](https://github.com/Undertone0809/promptulate)
 
+🌑 [cushy-storage: A lightweight ORM framework that provides disk caching for Python objects.](https://github.com/Undertone0809/cushy-storage)
 
-### Some of my repo :office_worker:
+🐬 [Python-Package-Template: Your next Python package needs a bleeding-edge project structure.](https://github.com/Undertone0809/python-package-template)
 
-- [【promptulate】一个强大的大语言模型自动化与应用开发框架](https://github.com/Undertone0809/promptulate)
-- [【cushy-storage】一个基于磁盘缓存的ORM框架，可以轻松地进行数据和对象存储](https://github.com/Undertone0809/cushy-storage)
-- [【broadcast-service】一个强大级的Python发布订阅者框架，支持同步异步、定时任务、主题管理等功能](https://github.com/Undertone0809/broadcast-service)
-- [【cushy-serial】A lightweight python serial library. You can create a serial program easily.](https://github.com/Undertone0809/cushy-serial)
-- [【cushy-socket】A python socket library. You can create a TCP/UDP connection easily.](https://github.com/Undertone0809/cushy-socket)
-- [【imarkdown】A practical Markdown image url converter](https://github.com/Undertone0809/imarkdown)
+🐠 [Promptimizer: An elegant prompt optimizer that optimizes users' prompts, making it easier for them to get the content they want.](https://github.com/Undertone0809/promptimizer)
+
+🌊 [broadcast-service: A powerful Python publishing subscriber framework.](https://github.com/Undertone0809/broadcast-service)
+
+💫 [cushy-serial: A lightweight python serial library. You can create a serial program easily.](https://github.com/Undertone0809/cushy-serial)
+
+📘 [A lightweight event bus framework. You can easily build a powerful event bus in your project.](https://github.com/Undertone0809/omnius)
+
+🌍 [cushy-socket: A python socket library. You can create a TCP/UDP connection easily.](https://github.com/Undertone0809/cushy-socket)
+
+🏝️ [imarkdown: A practical Markdown image url converter](https://github.com/Undertone0809/imarkdown)
 
 There are some [tiny repo](https://github.com/Undertone0809?page=1&tab=repositories) ...
 
