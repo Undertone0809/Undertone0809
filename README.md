@@ -39,6 +39,8 @@ For all things, know that I'm here for you. You are not alone. Looking forward t
 
 🔭 [Promptulate: A LLM application development framework.](https://github.com/Undertone0809/promptulate)
 
+🪶 [Athena: A Mulitmodal Robot Agent based on ROS2.](https://github.com/Undertone0809/Athena)
+
 🌑 [cushy-storage: A lightweight ORM framework that provides disk caching for Python objects.](https://github.com/Undertone0809/cushy-storage)
 
 🐬 [Python-Package-Template: Your next Python package needs a bleeding-edge project structure.](https://github.com/Undertone0809/python-package-template)
