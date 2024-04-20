@@ -7,11 +7,11 @@
 
 Hi, I’m [@Zeeland](https://github.com/Undertone0809), an open source community advocate.
 
-I’m interested in Computer Science, NLP, DeepLearning and Iot development.
+I’m interested in LLM & Agent, Computer Science, DeepLearning and Iot development.
 
 I have been playing research related to LLM and prompt engineering recently. Multi-Modality artificial intelligence and AGI are both intersting researchs ~
 
-Should you need anything, reach me at zeeland@foxmail.com.
+Should you need anything, reach me at zeeland4work@gmail.com.
 
 For all things, know that I'm here for you. You are not alone. Looking forward to doing some interesting things with you.
 
@@ -37,13 +37,13 @@ For all things, know that I'm here for you. You are not alone. Looking forward t
 
 ### Some of my repo 📚
 
-🔭 [Promptulate: A LLM application development framework.](https://github.com/Undertone0809/promptulate)
+🔭 [Promptulate: A LLM application and Agent development framework.](https://github.com/Undertone0809/promptulate)
 
 🪶 [Athena: A Mulitmodal Robot Agent based on ROS2.](https://github.com/Undertone0809/Athena)
 
 🌑 [cushy-storage: A lightweight ORM framework that provides disk caching for Python objects.](https://github.com/Undertone0809/cushy-storage)
 
-🐬 [Python-Package-Template: Your next Python package needs a bleeding-edge project structure.](https://github.com/Undertone0809/python-package-template)
+🐬 [3PG Python-Package-Project-Generator: Your next Python package needs a bleeding-edge project structure.](https://github.com/Undertone0809/python-package-template)
 
 🐠 [Promptimizer: An elegant prompt optimizer that optimizes users' prompts, making it easier for them to get the content they want.](https://github.com/Undertone0809/promptimizer)
 
@@ -57,7 +57,7 @@ For all things, know that I'm here for you. You are not alone. Looking forward t
 
 🏝️ [imarkdown: A practical Markdown image url converter](https://github.com/Undertone0809/imarkdown)
 
-There are some [tiny repo](https://github.com/Undertone0809?page=1&tab=repositories) ...
+There are some [funny repos](https://github.com/Undertone0809?page=1&tab=repositories)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Undertone0809&theme=merko&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Undertone0809&show_icons=true&theme=merko&count_private=true) -->
