@@ -5,39 +5,15 @@
 
 ![](https://komarev.com/ghpvc/?username=Undertone0809)
 
-Hi, I’m [@Zeeland](https://github.com/Undertone0809), an open source community advocate.
+Hi, I’m [@Zeeland](https://github.com/Undertone0809)
 
-I’m interested in LLM & Agent, Computer Science, DeepLearning and Iot development.
+🧰 Design Python lib sdk, 🤖LLM Agent Application framework and infra, IoT, Robotics, ML.
 
-I have been playing research related to LLM and prompt engineering recently. Multi-Modality artificial intelligence and AGI are both intersting researchs ~
+Let's make sth happen. Code with me plz! reach me at zeeland4work@gmail.com.
 
-Should you need anything, reach me at zeeland4work@gmail.com.
+---
 
-For all things, know that I'm here for you. You are not alone. Looking forward to doing some interesting things with you.
-
-### Using and learning 📚
-#### langs:
-<!-- **Langs:** -->
-![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C++](http://img.shields.io/badge/-C++-FF7F50?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffff4a&color=d1b01f)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-#### Develop:
-<!-- **Develop:** -->
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
-![Spring](http://img.shields.io/badge/-Uniapp-6DB33F?style=flat-square&logo=Uniapp&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-5391FE?style=flat-square&logo=mysql&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
-![NodeJs](https://img.shields.io/badge/-NodeJs-FF7D40?style=flat-square&logo=Node.js&logoColor=00d632)
-
-### Some of my repo 📚
-
-**Python SDK**
+**My Python Libs**
 
 - 🔭 [Promptulate: A LLM application and Agent development framework.](https://github.com/Undertone0809/promptulate)
 
@@ -55,25 +31,28 @@ For all things, know that I'm here for you. You are not alone. Looking forward t
 
 - 🏫 [ecjtu: ecjtu API SDK service, best practices for client SDK design](https://github.com/Undertone0809/ecjtu)
 
+**Other cool**
 
-🪶 [Athena: A Mulitmodal Robot Agent based on ROS2.](https://github.com/Undertone0809/Athena)
+- 🪶 [Athena: A Mulitmodal Robot Agent based on ROS2.](https://github.com/Undertone0809/Athena)
 
-🐬 [3PG Python-Package-Project-Generator: Your next Python package needs a bleeding-edge project structure.](https://github.com/Undertone0809/python-package-template)
+- 🐬 [3PG Python-Package-Project-Generator: Your next Python package needs a bleeding-edge project structure.](https://github.com/Undertone0809/python-package-template)
 
-🐠 [Promptimizer: An elegant prompt optimizer that optimizes users' prompts, making it easier for them to get the content they want.](https://github.com/Undertone0809/promptimizer)
+- 🐠 [Promptimizer: An elegant prompt optimizer that optimizes users' prompts, making it easier for them to get the content they want.](https://github.com/Undertone0809/promptimizer)
 
-🌊 [broadcast-service: A powerful Python publishing subscriber framework.](https://github.com/Undertone0809/broadcast-service)
+- 🌊 [broadcast-service: A powerful Python publishing subscriber framework.](https://github.com/Undertone0809/broadcast-service)
 
-
-
-
-There are some [funny repos](https://github.com/Undertone0809?page=1&tab=repositories)
+- [More](https://github.com/Undertone0809?page=1&tab=repositories)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Undertone0809&theme=merko&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Undertone0809&show_icons=true&theme=merko&count_private=true) -->
 
 <!-- ![Most Used Languages](https://github-readme-stats-zeeland.vercel.app/api/top-langs/?username=Undertone0809&theme=merko&layout=compact) -->
+
+Card1\
+
 ![Github Stats](https://github-readme-stats-zeeland.vercel.app/api?username=Undertone0809&show_icons=true&theme=merko&count_private=true)
+
+Card2\
 
 [![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
 
