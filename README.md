@@ -15,7 +15,7 @@ Let's make sth happen. Code with me and reach me at zeeland4work@gmail.com.
 
 **My Python Libs**
 
-| Python Libs                                             | Description                                                                                             |
+| Lib                                             | Description                                                                                             |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Cogit   | LLM MultiAgent task inference and autonomous orchestration framework/Comming soon                                                      |
 | [Promptulate](https://github.com/Undertone0809/promptulate)   | A LLM application and Agent development framework.                                                      |
