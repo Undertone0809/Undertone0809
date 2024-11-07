@@ -28,6 +28,7 @@ Let's make sth happen. Code with me and reach me at zeeland4work@gmail.com.
 | [imarkdown](https://github.com/Undertone0809/imarkdown)       | A practical Markdown image URL converter.                                                               |
 | [cushy-serial](https://github.com/Undertone0809/cushy-serial) | A lightweight Python serial library. You can create a serial program easily.                         |
 | [ecjtu](https://github.com/Undertone0809/ecjtu)               | ecjtu API SDK service, best practices for client SDK design.                                           |
+| [zeeland](https://github.com/Undertone0809/zeeland)               | Zeeland's core infrastructure                                           |
 
 **Other cool**
 
