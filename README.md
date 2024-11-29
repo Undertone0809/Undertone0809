@@ -7,6 +7,8 @@
 
 Hi, I’m [@Zeeland](https://github.com/Undertone0809)
 
+Building [Spark Lab](https://sparklab.city/), [Promptulate](https://www.promptulate.cn/) ...
+
 Design Python lib sdk, LLM Agent Application framework and infra, IoT, Robotics, ML.
 
 Let's make sth happen. Code with me and reach me at zeeland4work@gmail.com.
