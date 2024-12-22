@@ -3,11 +3,11 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/ff2fd02f-93f5-46d4-af69-146d00163dbe.svg)](https://wakatime.com/@ff2fd02f-93f5-46d4-af69-146d00163dbe)
 [![github](https://img.shields.io/github/followers/Undertone0809?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers) -->
 
-![](https://komarev.com/ghpvc/?username=Undertone0809)
+<!-- ![](https://komarev.com/ghpvc/?username=Undertone0809) -->
 
 I focus on the design of **SDKs, infrastructure, and software**, adhering to the **Zen of Python** and the **philosophy of coding for humans**, aiming to build user-friendly experiences. 
 
-On the other hand, I design and think with a futuristic perspective, looking at today from the standpoint of the next 20 years, **designing foundational infrastructure and a new world for AGI along the trajectory of technological and human historical development.**
+On the other hand, I design and think with a futuristic perspective, looking at today from the standpoint of the next 20 years, **designing foundational infrastructure and the NEW WORLD for AGI along the trajectory of technological and human historical development.**
 
 
 Feel free to reach out. Email: <zeeland4work@gmail.com>
