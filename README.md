@@ -5,46 +5,31 @@
 
 ![](https://komarev.com/ghpvc/?username=Undertone0809)
 
-Hi, I’m [@Zeeland](https://github.com/Undertone0809)
+I focus on the design of **SDKs, infrastructure, and software**, adhering to the **Zen of Python** and the **philosophy of coding for humans**, aiming to build user-friendly experiences. 
 
-Building [Spark Lab](https://sparklab.city/), [Promptulate](https://www.promptulate.cn/) ...
+On the other hand, I design and think with a futuristic perspective, looking at today from the standpoint of the next 20 years, **designing foundational infrastructure and a new world for AGI along the trajectory of technological and human historical development.**
 
-Design Python lib sdk, LLM Agent Application framework and infra, IoT, Robotics, ML.
 
-Let's make sth happen. Code with me and reach me at zeeland4work@gmail.com.
+Feel free to reach out. Email: <zeeland4work@gmail.com>
 
 ---
 
-**My Python Libs**
+Here are some of my creations:
 
-| Lib                                             | Description                                                                                             |
-|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Cogit   | LLM MultiAgent task inference and autonomous orchestration framework/Comming soon                                                      |
-| [Promptulate](https://github.com/Undertone0809/promptulate)   | A LLM application and Agent development framework.                                                      |
-| [UACP](https://github.com/Undertone0809/UACP)                 | Universal Agent Communication Protocol.                                                                  |
-| [Gcop](https://github.com/Undertone0809/gcop)                 | Your git AI copilot.                                                                                   |
-| [P3G](https://github.com/Undertone0809/P3G)                   | Python Package Project Generator.                                                                       |
-| [cushy-storage](https://github.com/Undertone0809/cushy-storage) | A lightweight ORM framework that provides disk caching for Python objects.                             |
-| [omnius](https://github.com/Undertone0809/omnius)             | A lightweight event bus framework. You can easily build a powerful event bus in your project.        |
-| [cushy-socket](https://github.com/Undertone0809/cushy-socket) | A Python socket library. You can create a TCP/UDP connection easily.                                |
-| [imarkdown](https://github.com/Undertone0809/imarkdown)       | A practical Markdown image URL converter.                                                               |
-| [cushy-serial](https://github.com/Undertone0809/cushy-serial) | A lightweight Python serial library. You can create a serial program easily.                         |
-| [ecjtu](https://github.com/Undertone0809/ecjtu)               | ecjtu API SDK service, best practices for client SDK design.                                           |
-| [zeeland](https://github.com/Undertone0809/zeeland)               | Zeeland's core infrastructure                                           |
-
-**Other cool**
-
-| Repo                                             | Description                                                                                             |
-|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [Athena](https://github.com/Undertone0809/Athena) | A Mulitmodal Robot Agent based on ROS2. |
-| [Promptimizer](https://github.com/Undertone0809/promptimizer) | An elegant prompt optimizer that optimizes users' prompts, making it easier for them to get the content they want. |
-
-[More](https://github.com/Undertone0809?page=1&tab=repositories)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Undertone0809&theme=merko&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Undertone0809&show_icons=true&theme=merko&count_private=true) -->
-
-<!-- ![Most Used Languages](https://github-readme-stats-zeeland.vercel.app/api/top-langs/?username=Undertone0809&theme=merko&layout=compact) -->
+- [Promptulate](https://github.com/Undertone0809/promptulate): A LLM application and Agent development framework.
+- [UACP](https://github.com/Undertone0809/UACP): Universal Agent Communication Protocol.
+- [GCOP](https://github.com/Undertone0809/gcop): AI-Powered Git Commit Assistant | Automate Commit Messages, Streamline Git Workflow. Help you write better git commit message.
+- [P3G](https://github.com/Undertone0809/P3G): Python Package Project Generator.
+- [cushy-storage](https://github.com/Undertone0809/cushy-storage): A lightweight ORM framework that provides disk caching for Python objects.
+- [omnius](https://github.com/Undertone0809/omnius): A lightweight event bus framework. You can easily build a powerful event bus in your project.
+- [zeeland](https://github.com/Undertone0809/zeeland): Zeeland's core infrastructure
+- [cushy-socket](https://github.com/Undertone0809/cushy-socket): A Python socket library. You can create a TCP/UDP connection easily.
+- [imarkdown](https://github.com/Undertone0809/imarkdown): A practical Markdown image URL converter.
+- [ecjtu](https://github.com/Undertone0809/ecjtu): ecjtu API SDK service, best practices for client SDK design.
+- [cushy-serial](https://github.com/Undertone0809/cushy-serial): A lightweight Python serial library. You can create a serial program easily.
+- [Athena](https://github.com/Undertone0809/Athena): A Mulitmodal Robot Agent based on ROS2.
+- [Promptimizer](https://github.com/Undertone0809/promptimizer): An elegant prompt optimizer that optimizes users' prompts.
+- [More](https://github.com/Undertone0809?page=1&tab=repositories)
 
 Card1\
 
