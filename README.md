@@ -21,7 +21,6 @@ Here are some of my creations:
 - [GCOP](https://github.com/Undertone0809/gcop): AI-Powered Git Commit Assistant | Automate Commit Messages, Streamline Git Workflow. Help you write better git commit message.
 - [P3G](https://github.com/Undertone0809/P3G): Python Package Project Generator.
 - [cushy-storage](https://github.com/Undertone0809/cushy-storage): A lightweight ORM framework that provides disk caching for Python objects.
-- [omnius](https://github.com/Undertone0809/omnius): A lightweight event bus framework. You can easily build a powerful event bus in your project.
 - [zeeland](https://github.com/Undertone0809/zeeland): Zeeland's core infrastructure
 - [cushy-socket](https://github.com/Undertone0809/cushy-socket): A Python socket library. You can create a TCP/UDP connection easily.
 - [imarkdown](https://github.com/Undertone0809/imarkdown): A practical Markdown image URL converter.
