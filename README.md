@@ -5,10 +5,17 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=Undertone0809) -->
 
-I focus on the design of **SDKs, infrastructure, and software**, adhering to the **Zen of Python** and the **philosophy of coding for humans**, aiming to build user-friendly experiences. 
+<!-- I focus on the design of **SDKs, infrastructure, and software**, adhering to the **Zen of Python** and the **philosophy of coding for humans**, aiming to build user-friendly experiences. 
 
 On the other hand, I design and think with a futuristic perspective, looking at today from the standpoint of the next 20 years, **designing foundational infrastructure and the NEW WORLD for AGI along the trajectory of technological and human historical development.**
 
+-->
+
+I spent years designing SDKs, infrastructure, and systems with a “code for humans” philosophy — tools built with clarity, elegance, and long-term intuition, aiming to build user-friendly experiences.
+
+Now I’m applying that same obsession to something good:
+
+[sparklab.city](https://sparklab.city) of Artist · Hacker · Builder
 
 Feel free to reach out. Email: <zeeland4work@gmail.com>
 
