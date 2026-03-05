@@ -11,11 +11,7 @@ On the other hand, I design and think with a futuristic perspective, looking at 
 
 -->
 
-I spent years designing SDKs, infrastructure, and systems with a “code for humans” philosophy — tools built with clarity, elegance, and long-term intuition, aiming to build user-friendly experiences.
-
-Now I’m applying that same obsession to something good:
-
-[sparklab.city](https://sparklab.city) of Artist · Hacker · Builder
+I spent years designing SDKs, AI infrastructure, and systems with a “code for humans” philosophy — tools built with clarity, elegance, and long-term intuition, aiming to build user-friendly experiences.
 
 Feel free to reach out. Email: <zeeland4work@gmail.com>
 
