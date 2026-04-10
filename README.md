@@ -19,8 +19,9 @@ Feel free to reach out. Email: <zeeland4work@gmail.com>
 
 Here are some of my creations:
 
-- [Promptulate](https://github.com/Undertone0809/promptulate): A LLM application and Agent development framework.
+- [skills-dir](https://github.com/Undertone0809/skills-dir): skills-dir tells you where an AI agent expects its skills to live.
 - [flomo-skills](https://github.com/Undertone0809/flomo-skills): Agent skill for querying, creating, editing, exporting and deleting flomo memos.
+- [Promptulate](https://github.com/Undertone0809/promptulate): A LLM application and Agent development framework.
 - [conftier](https://github.com/Undertone0809/conftier): A powerful multi-tier configuration management framework.
 - [GCOP](https://github.com/Undertone0809/gcop): AI-Powered Git Commit Assistant | Automate Commit Messages, Streamline Git Workflow. Help you write better git commit message.
 - [P3G](https://github.com/Undertone0809/P3G): Python Package Project Generator.
