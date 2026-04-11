@@ -19,6 +19,7 @@ Feel free to reach out. Email: <zeeland4work@gmail.com>
 
 Here are some of my creations:
 
+- [skill-creator](https://github.com/Undertone0809/skill-creator): A forked version of Anthropic skill-creator, but available to all agents, such as codex, openclaw.
 - [skills-dir](https://github.com/Undertone0809/skills-dir): skills-dir tells you where an AI agent expects its skills to live.
 - [flomo-skills](https://github.com/Undertone0809/flomo-skills): Agent skill for querying, creating, editing, exporting and deleting flomo memos.
 - [Promptulate](https://github.com/Undertone0809/promptulate): A LLM application and Agent development framework.
