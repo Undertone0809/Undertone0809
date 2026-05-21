@@ -20,9 +20,9 @@ Feel free to reach out. Email: <zeeland4work@gmail.com>
 Here are some of my creations:
 
 - [rudder](https://github.com/Undertone0809/rudder): Rudder is an orchestration and control platform for agent work, and the operating layer for agent teams.
-- [skill-creator](https://github.com/Undertone0809/skill-creator): A forked version of Anthropic skill-creator, but available to all agents, such as codex, openclaw.
+- [meta-skills](https://github.com/Undertone0809/zee-skills/tree/main/meta-skills): Meta skills help you create, evolve, evaluate, and package other Agent Skills.
 - [skills-dir](https://github.com/Undertone0809/skills-dir): skills-dir tells you where an AI agent expects its skills to live.
-- [flomo-skills](https://github.com/Undertone0809/flomo-skills): Agent skill for querying, creating, editing, exporting and deleting flomo memos.
+- [flomo-skills](https://github.com/Undertone0809/zee-skills/tree/main/flomo-skills): Agent skill for querying, creating, editing, exporting and deleting flomo memos.
 - [Promptulate](https://github.com/Undertone0809/promptulate): A LLM application and Agent development framework.
 - [conftier](https://github.com/Undertone0809/conftier): A powerful multi-tier configuration management framework.
 - [GCOP](https://github.com/Undertone0809/gcop): AI-Powered Git Commit Assistant | Automate Commit Messages, Streamline Git Workflow. Help you write better git commit message.
