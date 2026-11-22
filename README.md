@@ -31,7 +31,6 @@ Here are some of my creations:
 - [P3G](https://github.com/Undertone0809/P3G): Python Package Project Generator.
 - [UACP](https://github.com/Undertone0809/UACP): Universal Agent Communication Protocol.
 - [cushy-storage](https://github.com/Undertone0809/cushy-storage): A lightweight ORM framework that provides disk caching for Python objects.
-- [zeeland](https://github.com/Undertone0809/zeeland): Zeeland's core infrastructure
 - [cushy-socket](https://github.com/Undertone0809/cushy-socket): A Python socket library. You can create a TCP/UDP connection easily.
 - [imarkdown](https://github.com/Undertone0809/imarkdown): A practical Markdown image URL converter.
 - [ecjtu](https://github.com/Undertone0809/ecjtu): ecjtu API SDK service, best practices for client SDK design.
